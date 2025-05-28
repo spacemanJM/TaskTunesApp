@@ -10,7 +10,7 @@ Features
 - Fully packaged for Windows — no Qt needed!
 
 Download ToDoApp.zip from releases section.
-Just extract and run `ToDoApp.exe` — no installation needed.
+Just extract and run ToDoApp.exe — no installation needed.
 
 ---
 
