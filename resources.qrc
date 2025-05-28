@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/Add.png</file>
+        <file>icons/darkMode.png</file>
+        <file>icons/Delete.png</file>
+        <file>icons/lightMode.png</file>
+        <file>icons/Load.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/blackAdd.png</file>
+        <file>icons/Pause.png</file>
+        <file>icons/Play.png</file>
+        <file>icons/Next.png</file>
+        <file>icons/Previous.png</file>
+        <file>icons/shuffleOff.png</file>
+        <file>icons/shuffleOn.png</file>
+        <file>audio/Axel_F_by_Crazy_Frog.mp3</file>
+        <file>audio/Boom,_Boom,_Boom,_Boom!!_by_Vengaboys.mp3</file>
+        <file>audio/Crab_Rave_by_Noisestorm.mp3</file>
+        <file>audio/First_of_the_Year_(Equinox)_by_Skrillex.mp3</file>
+        <file>audio/SICKO_MODE_by_Travis_Scott.wav</file>
+        <file>audio/We_R_Who_We_R_by_Kesha.mp3</file>
+        <file>audio/HOT_TO_GO!_by_Chappell_Roan.mp3</file>
+        <file>audio/Ievan_Polkka_by_Hatsune_Miku.mp3</file>
+        <file>audio/Everytime_We_Touch_by_Cascada.mp3</file>
+        <file>audio/Just_Can't_Get_Enough_by_Black_Eyed_Peas.mp3</file>
+        <file>audio/NISSAN_ALTIMA_by_Doechii.mp3</file>
+        <file>audio/Rock_'n'_Roll_by_Skrillex.mp3</file>
+        <file>audio/Rock_Your_Body_by_Justin_Timberlake.mp3</file>
+    </qresource>
+</RCC>
